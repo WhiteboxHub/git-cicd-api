@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+mysql-connector-python
+python-dotenv
+passlib
+python-jose
+pydantic
+python-multipart
+fastapi_mail
+fastapi-mail
+PyJWT
+pydantic[email]
